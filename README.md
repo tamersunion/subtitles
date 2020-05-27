@@ -3,17 +3,19 @@ Tamers Union Subtitles Works
 ![](https://static.tamersunion.net/wp-content/uploads/logo_tamersunion_v4.png)
 
 本组发布主页：[www.tamersunion.net](https://www.tamersunion.net)
+
 本组新浪微博：[weibo.com/tamersunionsub](https://weibo.com/tamersunionsub)
+
 Telegram频道：[t.me/tamersunion](https://https://t.me/tamersunion)
 
-### TV动画
+## TV动画
 
 | 英文名                           | 中文名                 | 日文名                            | 备注                                             |
 | ------------------------------- | ---------------------- | -------------------------------- | ------------------------------------------------ |
 | Digimon Universe App Monster    | 数码兽宇宙 应用怪兽      | デジモンユニバース アプリモンスターズ  | 全 52 话 / [HDTV 字幕](https://github.com/tamersunion/subtitle/tree/master/Digimon_Universe_App_Monster) |
 | Digimon Adventure :             | 数码兽大冒险：          | デジモンアドベンチャー：               | 连载至第3话 / [WEB 字幕](https://github.com/tamersunion/subtitle/tree/master/Digimon_Adventure_2020)                                         |
 
-### **OVA**
+## OVA
 | 英文名                         | 中文名                  | 日文名                                 | 备注                                                         |
 | ------------------------------ | ----------------------- | -------------------------------------- | ------------------------------------------------------------ |
 | Digimon Adventure tri. Chapter 1  | 数码兽大冒险tri. 第1章「再会」       | デジモンアドベンチャー tri. 第1章「再会」| [BD 字幕](https://github.com/tamersunion/subtitle/tree/master/Digimon_Adventure_tri_Chapter_1) |
@@ -24,13 +26,13 @@ Telegram频道：[t.me/tamersunion](https://https://t.me/tamersunion)
 | Digimon Adventure tri. Chapter 6  | 数码兽大冒险tri. 第6章「我们的未来」  | デジモンアドベンチャー tri. 第6章「ぼくらの未来」| [BD 字幕](https://github.com/tamersunion/subtitle/tree/master/Digimon_Adventure_tri_Chapter_6) |
 | Digimon Adventure 20th Memorial Story | 数码兽大冒险20周年 Memorial Story | デジモンアドベンチャー20th メモリアルストーリー | [WEB 字幕](https://github.com/tamersunion/subtitle/tree/master/Digimon_Adventure_20th_Memorial_Story) |
 
-### **广播剧**
+## 广播剧
 | 英文名                              | 中文名                              | 日文名                    | 备注                                       |
 | -------------------------------- | -------------------------------- | ---------------------- | ---------------------------------------- |
 | Digimon Tamers 2018 Days -Information and the Unordinary-            | 数码兽驯兽师 2018 Days -情报与非日常-               | デジモンテイマーズ2018 Days -情報と非日常-                   | [WEB 字幕](https://github.com/tamersunion/subtitles/tree/master/Digimon_Tamers_2018_Days_Information_and_the_Unordinary) |
 | Digimon Frontier A Train Named Hope   | 数码兽最前线 名为希望的电车               | デジモンフロンティア 希望という名の電車                  | [WEB 字幕](https://github.com/tamersunion/subtitles/tree/master/Digimon_Frontier_A_Train_Named_Hope) |
 
-### **其他影片**
+## 其他影片
 
 | 英文名                              | 中文名                              | 日文名                    | 备注                                       |
 | -------------------------------- | -------------------------------- | ---------------------- | ---------------------------------------- |
@@ -40,11 +42,11 @@ Telegram频道：[t.me/tamersunion](https://https://t.me/tamersunion)
 
 
 
-### 关于繁体字幕 / 關於繁體字幕
+## 关于繁体字幕 / 關於繁體字幕
 
-- 本组繁体字幕目前除连载中的 **数码兽大冒险：** 外，其他繁体字幕均为人工制作（或先使用转换工具再人工校对）。 **数码兽大冒险：** 使用繁化姬繁化后并进行人工快速核对而成。对繁体字幕有疑问可提出issue或发起pull request。
+- 本组繁体字幕目前除连载中的 **数码兽大冒险：** 及部分短篇影像外，其他繁体字幕均为人工转换（或先使用转换工具再人工校对）。 **数码兽大冒险：** 使用繁化姬繁化后并进行人工快速核对而成。对繁体字幕有疑问可提出issue或发起pull request。
 
-- 本組繁體字幕目前除連載中的 **數碼獸大冒險：** 外，其他繁體字幕均為人工製作（或先使用轉換工具再人工校對）。 **數碼獸大冒險：** 使用繁化姬繁化後並進行人工快速核對而成。對繁體字幕有疑問可提出issue或發起pull request。
+- 本組繁體字幕目前除連載中的 **數碼獸大冒險：** 外，其他繁體字幕均為人工轉換（或先使用轉換工具再人工校對）。 **數碼獸大冒險：** 使用繁化姬繁化後並進行人工快速核對而成。對繁體字幕有疑問可提出issue或發起pull request。
 
 
 
