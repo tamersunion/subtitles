@@ -18,27 +18,27 @@ Telegram频道：[t.me/tamersunion](https://https://t.me/tamersunion)
 ## OVA
 | 英文名                         | 中文名                  | 日文名                                 | 备注                                                         |
 | ------------------------------ | ----------------------- | -------------------------------------- | ------------------------------------------------------------ |
-| Digimon Adventure tri. Chapter 1  | 数码兽大冒险tri. 第1章「再会」       | デジモンアドベンチャー tri. 第1章「再会」| [BD 字幕](https://github.com/tamersunion/subtitle/tree/master/Digimon_Adventure_tri_Chapter_1) |
-| Digimon Adventure tri. Chapter 2  | 数码兽大冒险tri. 第2章「决意」       | デジモンアドベンチャー tri. 第2章「決意」| [BD 字幕](https://github.com/tamersunion/subtitle/tree/master/Digimon_Adventure_tri_Chapter_2) |
-| Digimon Adventure tri. Chapter 3  | 数码兽大冒险tri. 第3章「告白」       | デジモンアドベンチャー tri. 第3章「告白」| [BD 字幕](https://github.com/tamersunion/subtitle/tree/master/Digimon_Adventure_tri_Chapter_3) |
-| Digimon Adventure tri. Chapter 4  | 数码兽大冒险tri. 第4章「丧失」       | デジモンアドベンチャー tri. 第4章「喪失」| [BD 字幕](https://github.com/tamersunion/subtitle/tree/master/Digimon_Adventure_tri_Chapter_4) |
-| Digimon Adventure tri. Chapter 5  | 数码兽大冒险tri. 第5章「共生」       | デジモンアドベンチャー tri. 第5章「共生」| [BD 字幕](https://github.com/tamersunion/subtitle/tree/master/Digimon_Adventure_tri_Chapter_5) |
-| Digimon Adventure tri. Chapter 6  | 数码兽大冒险tri. 第6章「我们的未来」  | デジモンアドベンチャー tri. 第6章「ぼくらの未来」| [BD 字幕](https://github.com/tamersunion/subtitle/tree/master/Digimon_Adventure_tri_Chapter_6) |
-| Digimon Adventure 20th Memorial Story | 数码兽大冒险20周年 Memorial Story | デジモンアドベンチャー20th メモリアルストーリー | [WEB 字幕](https://github.com/tamersunion/subtitle/tree/master/Digimon_Adventure_20th_Memorial_Story) |
+| Digimon Adventure tri. Chapter 1  | 数码兽大冒险tri. 第1章「再会」       | デジモンアドベンチャー tri. 第1章「再会」| [BD 字幕](./Digimon_Adventure_tri_Chapter_1) |
+| Digimon Adventure tri. Chapter 2  | 数码兽大冒险tri. 第2章「决意」       | デジモンアドベンチャー tri. 第2章「決意」| [BD 字幕](./Digimon_Adventure_tri_Chapter_2) |
+| Digimon Adventure tri. Chapter 3  | 数码兽大冒险tri. 第3章「告白」       | デジモンアドベンチャー tri. 第3章「告白」| [BD 字幕](./Digimon_Adventure_tri_Chapter_3) |
+| Digimon Adventure tri. Chapter 4  | 数码兽大冒险tri. 第4章「丧失」       | デジモンアドベンチャー tri. 第4章「喪失」| [BD 字幕](./Digimon_Adventure_tri_Chapter_4) |
+| Digimon Adventure tri. Chapter 5  | 数码兽大冒险tri. 第5章「共生」       | デジモンアドベンチャー tri. 第5章「共生」| [BD 字幕](./Digimon_Adventure_tri_Chapter_5) |
+| Digimon Adventure tri. Chapter 6  | 数码兽大冒险tri. 第6章「我们的未来」  | デジモンアドベンチャー tri. 第6章「ぼくらの未来」| [BD 字幕](./Digimon_Adventure_tri_Chapter_6) |
+| Digimon Adventure 20th Memorial Story | 数码兽大冒险20周年 Memorial Story | デジモンアドベンチャー20th メモリアルストーリー | [WEB 字幕](./Digimon_Adventure_20th_Memorial_Story) |
 
 ## 广播剧
 | 英文名                              | 中文名                              | 日文名                    | 备注                                       |
 | -------------------------------- | -------------------------------- | ---------------------- | ---------------------------------------- |
-| Digimon Tamers 2018 Days -Information and the Unordinary-            | 数码兽驯兽师 2018 Days -情报与非日常-               | デジモンテイマーズ2018 Days -情報と非日常-                   | [WEB 字幕](https://github.com/tamersunion/subtitles/tree/master/Digimon_Tamers_2018_Days_Information_and_the_Unordinary) |
-| Digimon Frontier A Train Named Hope   | 数码兽最前线 名为希望的电车               | デジモンフロンティア 希望という名の電車                  | [WEB 字幕](https://github.com/tamersunion/subtitles/tree/master/Digimon_Frontier_A_Train_Named_Hope) |
+| Digimon Tamers 2018 Days -Information and the Unordinary-            | 数码兽驯兽师 2018 Days -情报与非日常-               | デジモンテイマーズ2018 Days -情報と非日常-                   | [WEB 字幕](./Digimon_Tamers_2018_Days_Information_and_the_Unordinary) |
+| Digimon Frontier A Train Named Hope   | 数码兽最前线 名为希望的电车               | デジモンフロンティア 希望という名の電車                  | [WEB 字幕](./Digimon_Frontier_A_Train_Named_Hope) |
 
 ## 其他影片
 
 | 英文名                              | 中文名                              | 日文名                    | 备注                                       |
 | -------------------------------- | -------------------------------- | ---------------------- | ---------------------------------------- |
-| -            | PS4/PSV 数码兽物语 网络侦探 黑客记忆 PV                  | PS4/PS Vitaデジモンストーリー サイバースルゥース ハッカーズメモリー PV                   | [WEB 字幕](https://github.com/tamersunion/subtitles/tree/master/PS4PSV_Digimon_Story_Cyber_Sleuth_Hackers_Memory_PV) / B 站 [PV](https://www.bilibili.com/video/av17216908/)  [特别影像](http://www.bilibili.com/video/av15941715/) |
-| - | 3DS 数码兽宇宙 应用怪兽 PV                    | 3DS デジモンユニバース アプリモンスターズ PV            | [WEB 字幕](https://github.com/tamersunion/subtitles/tree/master/3DS_Digimon_Universe_App_Monster_PV) / [B 站](http://www.bilibili.com/video/av5679135)  |
-| -                | 数码兽宇宙 应用怪兽 6月9日舞台映像                             | デジモンユニバース アプリモンスターズ」6-9ステージ映像                 | [WEB 字幕](https://github.com/tamersunion/subtitles/tree/master/Digimon_Universe_App_Monster_Stage) / [B 站](https://www.bilibili.com/video/av13745318) |
+| -            | PS4/PSV 数码兽物语 网络侦探 黑客记忆 PV                  | PS4/PS Vitaデジモンストーリー サイバースルゥース ハッカーズメモリー PV                   | [WEB 字幕](./PS4PSV_Digimon_Story_Cyber_Sleuth_Hackers_Memory_PV) / B 站 [PV](https://www.bilibili.com/video/av17216908/)  [特别影像](http://www.bilibili.com/video/av15941715/) |
+| - | 3DS 数码兽宇宙 应用怪兽 PV                    | 3DS デジモンユニバース アプリモンスターズ PV            | [WEB 字幕](./3DS_Digimon_Universe_App_Monster_PV) / [B 站](http://www.bilibili.com/video/av5679135)  |
+| -                | 数码兽宇宙 应用怪兽 6月9日舞台映像                             | デジモンユニバース アプリモンスターズ」6-9ステージ映像                 | [WEB 字幕](./Digimon_Universe_App_Monster_Stage) / [B 站](https://www.bilibili.com/video/av13745318) |
 
 
 
