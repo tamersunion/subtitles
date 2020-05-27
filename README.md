@@ -12,8 +12,8 @@ Telegram频道：[t.me/tamersunion](https://https://t.me/tamersunion)
 
 | 英文名                           | 中文名                 | 日文名                            | 备注                                             |
 | ------------------------------- | ---------------------- | -------------------------------- | ------------------------------------------------ |
-| Digimon Universe App Monster    | 数码兽宇宙 应用怪兽      | デジモンユニバース アプリモンスターズ  | 全 52 话 / [HDTV 字幕](https://github.com/tamersunion/subtitle/tree/master/Digimon_Universe_App_Monster) |
-| Digimon Adventure :             | 数码兽大冒险：          | デジモンアドベンチャー：               | 连载至第3话 / [WEB 字幕](https://github.com/tamersunion/subtitle/tree/master/Digimon_Adventure_2020)                                         |
+| Digimon Universe App Monster    | 数码兽宇宙 应用怪兽      | デジモンユニバース アプリモンスターズ  | 全 52 话 / [HDTV 字幕](./Digimon_Universe_App_Monster) |
+| Digimon Adventure :             | 数码兽大冒险：          | デジモンアドベンチャー：               | 连载至第3话 / [WEB 字幕](./Digimon_Adventure_2020)                                         |
 
 ## OVA
 | 英文名                         | 中文名                  | 日文名                                 | 备注                                                         |
