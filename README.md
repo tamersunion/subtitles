@@ -1,6 +1,6 @@
-Tamers Union Subtitles Works
+# Tamers Union Subtitles Works
 
-![](https://static.tamersunion.net/wp-content/uploads/logo_tamersunion_v4.png)
+![](./logo.png)
 
 本组发布主页：[www.tamersunion.net](https://www.tamersunion.net)
 
