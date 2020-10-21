@@ -6,7 +6,7 @@
 
 本组新浪微博：[weibo.com/tamersunionsub](https://weibo.com/tamersunionsub)
 
-Telegram频道：[t.me/tamersunion](https://https://t.me/tamersunion)
+Telegram频道：[t.me/tamersunion](https://t.me/tamersunion)
 
 ## TV动画
 
